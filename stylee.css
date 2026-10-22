@@ -22,7 +22,7 @@ ol {
 }
 
 li {
-    background-color: rgb(41, 37, 37);
+    background-color: rgba(41, 37, 37, 0.038);
     margin: 20px auto;
     padding: 20px;
     border-radius: 15px;
