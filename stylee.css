@@ -1,20 +1,20 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #6e36aa;
-    color: #4f2727;
+    background-color: #E6D6FF;
+    color: #3B155C;
     margin: 0;
     text-align: center;
 }
 
 h1 {
-    background-color: #6a0dad;
+    background-color: #6A0DAD;
     color: white;
     padding: 30px;
     margin: 0;
 }
 
 h2 {
-    color: #8a0ce4;
+    color: #8A2BE2;
 }
 
 ol {
@@ -22,12 +22,13 @@ ol {
 }
 
 li {
-    background-color: rgb(230, 25, 189);
+    background-color: #D8B4FE;
+    color: #3B155C;
     margin: 20px auto;
     padding: 20px;
     border-radius: 15px;
     max-width: 500px;
-    box-shadow: 0 4px 10px #8103ef;
+    box-shadow: 0 4px 10px #9B59B6;
 }
 
 img {
@@ -38,19 +39,19 @@ img {
 
 a {
     display: inline-block;
-    background-color: #210039;
-    color: rgb(216, 140, 140);
+    background-color: #4B0082;
+    color: white;
     text-decoration: none;
     padding: 10px 15px;
     border-radius: 8px;
 }
 
 a:hover {
-    background-color: #6c3881;
+    background-color: #9370DB;
 }
 
 footer {
-    background-color: #6a0dad;
-    color: rgb(91, 81, 81);
+    background-color: #6A0DAD;
+    color: white;
     padding: 15px;
 }
